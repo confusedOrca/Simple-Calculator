@@ -2,6 +2,7 @@
 This was an OOP project in java, for CSE215 course taken in 2020.
 
 (This course comes before DSA course. Hence a brute force solution was used instead of using a Stack to find value of mathematical expressions.)
+(The demos are Youtube videos. Click on them to redirect to the demo on YT)
 
 It performs equation linearly from left to right.
 Brackets are added automatically so that our expressions are valid.
